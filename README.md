@@ -15,7 +15,7 @@ Y12 Records Problem Set
 
  - Extension:
  - Add a new method:
-  - created
+   - created
     - Outputs the date and time that the Record was created
       - NOTE: You will need a new attribute to store this
    - day_born
