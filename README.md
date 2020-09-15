@@ -16,9 +16,9 @@ Y12 Records Problem Set
  - Extension:
  - Add a new method:
    - created
-    - Outputs the date and time that the Record was created
-      - NOTE: You will need a new attribute to store this
+      - Outputs the date and time that the Record was created
+        - NOTE: You will need a new attribute to store this
    - day_born
-    - Add a DOB attribute
-    - instead of requesting age from the user, calculate the age from the DOB
-    - the day_born method when invoked should return the DAY the person was born
+      - Add a DOB attribute
+      - instead of requesting age from the user, calculate the age from the DOB
+      - the day_born method when invoked should return the DAY the person was born
